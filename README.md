@@ -5,7 +5,7 @@ Este clon ha sido diseñado utilizando las tecnologías HTML y CSS, complementad
 
 El propósito de este proyecto es proporcionar una representación fiel de la interfaz de usuario de Google, demostrando la capacidad de aplicar técnicas de desarrollo web. A través de la implementación de prácticas estándar de la industria y herramientas modernas, el proyecto busca reflejar con precisión la estética y usabilidad de la página original.
 
-Proyecto desplegado ([https://iprocio.github.io/clon-google/](https://iprocio.github.io/clon-google/))
+Proyecto desplegado aquí: ([https://iprocio.github.io/clon-google/](https://iprocio.github.io/clon-google/))
 
 
 
